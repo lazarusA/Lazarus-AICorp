@@ -1,2 +1,1 @@
-# refactored-happiness
-GitHub Pages
+### This is a set of examples for AI
